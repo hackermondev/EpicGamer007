@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: XHTML > HTML
 
+[![EpicGamer007's GitHub stats](https://github-readme-stats.vercel.app/api?username=EpicGamer007)](https://github.com/anuraghazra/github-readme-stats)
+
