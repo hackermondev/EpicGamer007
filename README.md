@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: XHTML > HTML
 
 [![EpicGamer007's GitHub stats](https://github-readme-stats.vercel.app/api?username=EpicGamer007&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![stats](https://replstatswidget.19wintersp.repl.co/?name=EpicGamer007&theme=dark.png)
+![stats](https://replstatswidget.19wintersp.repl.co/?name=EpicGamer007&type=minimal-tiles&theme=dark&foreground=#f8f8ff&border=#f8f8ff.png)
