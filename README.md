@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: XHTML > HTML
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 [![EpicGamer007's GitHub stats](https://github-readme-stats.vercel.app/api?username=EpicGamer007&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![stats](https://replstatswidget.19wintersp.repl.co/?name=EpicGamer007&type=minimal-tiles&theme=dark&foreground=#f8f8ff&border=#f8f8ff.png)
 ![stats](https://replstatswidget.19wintersp.repl.co/?name=EpicGamer007&type=languages&theme=dark&foreground=#f8f8ff&border=#f8f8ff.png)
