@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 ![stats](https://replstatswidget.19wintersp.repl.co/?name=EpicGamer007&type=languages&theme=dark&foreground=#f8f8ff&border=#f8f8ff.png)
 
 ~~Sorry for spamming this page with images lol~~
+
+I am more active on [replit](https://replit.com). My profile is [here](https://repl.it/@EpicGamer007).
