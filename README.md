@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ## Here is a random programming joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![stats](https://short.epicgamer007.repl.co/mini)
-![stats](https://short.epicgamer007.repl.co/langs)
+<p align="center"> <img src="https://short.epicgamer007.repl.co/mini" alt="My replit information"/> </p> 
+<p align="center"> <img src="https://short.epicgamer007.repl.co/langs" alt="My Top languages on replit"/> </p> 
 
 [![EpicGamer007's GitHub stats](https://github-readme-stats.vercel.app/api?username=EpicGamer007&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ~~Sorry for spamming this page with images lol~~
 
-I am more active on [replit](https://replit.com). My profile is [here](https://repl.it/@EpicGamer007).
+I am more active on [replit](https://replit.com). My profile is [here](https://replit.com/@EpicGamer007).
