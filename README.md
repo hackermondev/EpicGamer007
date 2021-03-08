@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=EpicGamer007" alt="EpicGamer007"/> </p> 
+
 - 🔭 I’m currently working on a [blogger](https://replit.com/@EpicGamer007/blogger), [An obby](https://replit.com/@EpicGamer007/3js), and [CodePoint](https://replit.com/@xxpertHacker/CodePoint)
 - 🌱 I’m currently learning C++ and NodeJS
 - 👯 I’m looking to collaborate on NodeJS projects
