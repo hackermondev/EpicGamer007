@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: XHTML > HTML
 
-## 😂 Here is a random joke that'll make you laugh!
+## Here is a random programming joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![stats](https://short.epicgamer007.repl.co/mini)
+![stats](https://short.epicgamer007.repl.co/langs)
 
 [![EpicGamer007's GitHub stats](https://github-readme-stats.vercel.app/api?username=EpicGamer007&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
