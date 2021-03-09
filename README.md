@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ## Here are my repl.it stats
 
-<p align="center"> <img src="https://short.epicgamer007.repl.co/mini" alt="My replit information"/> </p> 
-<p align="center"> <img src="https://short.epicgamer007.repl.co/langs" alt="My Top languages on replit"/> </p> 
+<img src="https://short.epicgamer007.repl.co/mini" alt="My replit information"/>
+<img src="https://short.epicgamer007.repl.co/langs" alt="My Top languages on replit"/>
 
 ## Here are my github stats
 
