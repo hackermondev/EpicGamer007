@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 ~~Sorry for spamming this page with images lol~~
 
 I am more active on [replit](https://replit.com). My profile is [here](https://replit.com/@EpicGamer007).
+
+Oh yeah, check out my extremely garbage Java tutorial [here](https://repl.it/talk/learn/Java-and-The-ultimate-tutorial-to-get-you-started/58672).
